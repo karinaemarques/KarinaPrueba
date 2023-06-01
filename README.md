@@ -1,2 +1,0 @@
-# KarinaPrueba
-Pruebas de karina
